@@ -1,2 +1,2 @@
-# AytuğWiki
-AytuğWiki, Linux, Yazılım konularında deneyimlerimi ve onlardan edindiğim tecrübeleri paylaştığım wiki sayfamdır.
+# AytuğViki
+AytuğViki, Linux, Yazılım konularında deneyimlerimi ve onlardan edindiğim tecrübeleri paylaştığım viki sayfamdır.
